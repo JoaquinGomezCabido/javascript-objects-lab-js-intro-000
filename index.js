@@ -19,3 +19,4 @@ var destructivelyDeleteFromObjectByKey = (object, key) => {
 
   return object
 }
+*/
